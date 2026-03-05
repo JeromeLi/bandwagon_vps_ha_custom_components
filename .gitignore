@@ -11,3 +11,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 .pytest_cache/
+
+# Compressed Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
