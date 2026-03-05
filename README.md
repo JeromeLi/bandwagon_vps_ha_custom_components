@@ -4,12 +4,12 @@
 
 ### Integrations Page
 
-![Integrations Page](doc/integrations_ha.png)
+![Integrations Page](pic/integrations_ha.png)
 
 ### Device Entities
 
-![Device Entities](doc/entity_ha.png)
+![Device Entities](pic/entity_ha.png)
 
 ### Sensor Details
 
-![Sensor Details](doc/sensor_ha.png)
+![Sensor Details](pic/sensor_ha.png)
