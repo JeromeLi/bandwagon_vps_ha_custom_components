@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Directories
+doc/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/

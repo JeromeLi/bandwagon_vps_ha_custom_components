@@ -1,0 +1,12 @@
+{
+    "domain": "bandwagonhost",
+    "name": "BandwagonHost (KiwiVM) VPS",
+    "codeowners": [],
+    "config_flow": true,
+    "dependencies": [],
+    "documentation": "https://bandwagonhost.com/kiwivm-api.php",
+    "integration_type": "hub",
+    "iot_class": "cloud_polling",
+    "requirements": [],
+    "version": "1.0.0"
+}

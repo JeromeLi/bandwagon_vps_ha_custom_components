@@ -1,0 +1,22 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Configure BandwagonHost VPS",
+                "description": "Enter your BandwagonHost (KiwiVM) API parameters.",
+                "data": {
+                    "name": "Friendly Name (e.g. VPS LA)",
+                    "veid": "VEID",
+                    "api_key": "API Key"
+                }
+            }
+        },
+        "error": {
+            "cannot_connect": "Failed to connect to KiwiVM API. Please check your VEID and API Key.",
+            "unknown": "An unexpected error occurred."
+        },
+        "abort": {
+            "already_configured": "This VEID is already configured."
+        }
+    }
+}
